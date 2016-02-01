@@ -1,0 +1,5 @@
+
+{
+  "dependencies" : ["leancitest/libA"],
+  "commands" : ["echo hola!"]
+}
